@@ -14,6 +14,8 @@
     android:background="#aee8e9"
     android:orientation="vertical">
 
+    <!--Begin our calculator interface XML-->
+
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
